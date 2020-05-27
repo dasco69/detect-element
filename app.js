@@ -24,7 +24,13 @@ class Detect {
         console.log("Pas visible!!!");
       }
     });
-  }
+  } //END Scroll()
+  add() {
+    //Add element
+  } //END Add()
+  remove() {
+    //Remove Element
+  } //END Remove()
 }
 
 //Déclaration de l'object Detect avec les paramètre d'entrée
